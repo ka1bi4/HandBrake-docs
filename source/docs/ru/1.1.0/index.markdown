@@ -4,9 +4,9 @@ Title:           Welcome
 Project:         HandBrake
 Project_URL:     https://handbrake.fr/
 Project_Version: 1.1.0
-Language:        Russian
+Language:        Русский
 Language_Code:   ru
-Authors:         [RomanBug]
+Authors:         [Roman Bug]
 Copyright:       2018 HandBrake Team
 License:         Creative Commons Attribution-ShareAlike 4.0 International
 License_Abbr:    CC BY-SA 4.0

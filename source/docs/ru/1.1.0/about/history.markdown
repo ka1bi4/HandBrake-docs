@@ -7,7 +7,7 @@ Project_URL:     https://handbrake.fr/
 Project_Version: 1.1.0
 Language:        Русский
 Language_Code:   ru
-Authors:         [ Roman Bug ]
+Authors:         [Roman Bug]
 Copyright:       2018 HandBrake Team
 License:         Creative Commons Attribution-ShareAlike 4.0 International
 License_Abbr:    CC BY-SA 4.0
